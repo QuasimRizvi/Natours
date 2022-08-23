@@ -1,0 +1,45 @@
+/* 
+Light Green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485 */
+
+@import "components/btn";
+
+@import "pages/home";
+
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/animations";
+@import "base/typography";
+@import "base/utilities";
+
+
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+// Defines 1 rem
+html {
+  font-size: 62.5%;
+}
+
+// Defines border layout method
+body {
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
