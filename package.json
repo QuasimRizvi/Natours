@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "SASS Based Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuasimRizvi/Natours.git"
+  },
+  "author": "Quasim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuasimRizvi/Natours/issues"
+  },
+  "homepage": "https://github.com/QuasimRizvi/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
